@@ -2,10 +2,10 @@
 
  class Config
  {
-     static public $mvc_bd_hostname = "localhost";
-     static public $mvc_bd_nombre   = "alimentos2025";
-     static public $mvc_bd_usuario  = "danielu";
-     static public $mvc_bd_clave    = "Q1GuQDIX";
+     static public $mvc_bd_hostname = "ftpupload.net";
+     static public $mvc_bd_nombre   = "alimentos12025";
+     static public $mvc_bd_usuario  = "if0_40348501";
+     static public $mvc_bd_clave    = "12072006Manuel";
      static public $mvc_vis_css     = "estilo.css";
  }
 ?>
