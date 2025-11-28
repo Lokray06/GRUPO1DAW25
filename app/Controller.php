@@ -6,7 +6,7 @@
      public function inicio()
      {
          $params = array(
-             'mensaje' => 'Bienvenido al curso de symfony 1.4',
+             'mensaje' => 'Bienvenido a mi pratica 3 campeon Manuel,Samuel Juanpa',
              'fecha' => date('d-m-Y'),
          );
          require __DIR__ . '/templates/inicio.php';
