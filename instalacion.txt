@@ -1,0 +1,14 @@
+Administrará el repo en GITHUB, creará el repositorio 
+También recogerá las valoraciones de la experiencia del resto de integrantes  y las indicará en un fichero de texto .
+Asumirá el modelo y el archivo 
+Creará una base de datos en su hosting de CDMON denominada alimentosX2025 
+ejecutará la creación de la tabla alimentos  mediante SQL. 
+Realizará mediante SSH + comandos GIT el despliegue en su hosting en una carpeta específica para
+el proyecto. 
+En la cuenta de GITHUB subirá las indicaciones para la instalación y despliegue del proyecto con
+las acciones y comandos SSH, GIT realizados por este integrante  
+Asumirá el controlador frontal, archivo con la clase controlador, y el archivo de configuración 
+Modificará el código del archivo Config.php para indicar los datos de conexión con la base de datos
+con los datos proporcionados. 
+Explicará en un archivo de texto el histórico de tareas realizadas y al final indicará el enlace o URL
+en el hosting desplegado . 
