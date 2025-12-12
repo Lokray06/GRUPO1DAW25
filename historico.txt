@@ -1,0 +1,7 @@
+Juan Pablo ha creado el repositorio en el que hemos trabajado junto con la primera subida de los archivos
+Manuel ha creado la base de datos y ha compartido los datos de conexión a esta
+Samuel ha realizado la configuración del proyecto con la BBDD y le ha cambiado los estilos para que sea de otro color
+Samuel ha subido los cambios al repositorio
+Manuel ha clonado el repositorio
+Manuel se ha conectado con filezilla al hosting y ha subido el proyecto
+La dirección del proyecto en el hosting es: manuel.wuaze.com/web
